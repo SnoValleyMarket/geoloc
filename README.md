@@ -1,2 +1,2 @@
-# goloc
-Exploring Amazon Location Service
+# geoloc
+Exploring Amazon Location Services
